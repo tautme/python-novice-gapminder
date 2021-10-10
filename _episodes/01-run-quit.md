@@ -97,6 +97,19 @@ $ jupyter lab
 ~~~
 {: .bash}
 
+### LINUX - Command Line
+To start the JupyterLab server you will need to first start Anaconda Navigator. Here are two ways to access the Terminal.
+
+1. In your Applications folder, search for Terminal.
+2. Press <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>t</kbd> to launch a Terminal window.
+
+After you have launched Terminal, type the command to launch the Anaconda Naviga server.
+
+~~~
+$ conda
+~~~
+{: .bash}
+
 ###  Anaconda Navigator
 
 To start a JupyterLab server from Anaconda Navigator you must first [start Anaconda Navigator (click for detailed instructions on macOS, Windows, and Linux)](https://docs.anaconda.com/anaconda/navigator/getting-started/#starting-navigator). You can search for Anaconda Navigator via Spotlight on macOS (<kbd>Command</kbd> + <kbd>spacebar</kbd>), the Windows search function (<kbd>Windows Logo Key</kbd>) or opening a terminal shell and executing the `anaconda-navigator` executable from the command line.
